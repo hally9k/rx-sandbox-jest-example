@@ -1,12 +1,11 @@
 {
-  "name": "rxjs-marble-example",
+  "name": "rx-sandbox-jest-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "@std/esm": "js",
   "scripts": {
     "start": "node index.js",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "author": "",
   "license": "ISC",
